@@ -1,0 +1,16 @@
+# Archivos Compilación
+bin/
+obj/
+
+# Configuración de usuario
+*.user
+*.suo
+*.vs/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
