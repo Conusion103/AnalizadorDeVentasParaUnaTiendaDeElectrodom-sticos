@@ -8,8 +8,4 @@ class Buyer
     {
 
     }
-    static void Main()
-    {
-
-    }
 }
